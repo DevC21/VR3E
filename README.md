@@ -10,6 +10,6 @@
 
 제작 기간 : 한달 (2022-10-04 ~ 2022-11-06)
 
-포트폴리오 영상 : https://youtu.be/J9QU4HFOTp0
-
 포트폴리오 PPT : https://drive.google.com/file/d/1CoknHxZHAF1CLopEa4X7tCgZj-nhSHbc/view?usp=sharing
+
+포트폴리오 영상 : https://youtu.be/J9QU4HFOTp0
